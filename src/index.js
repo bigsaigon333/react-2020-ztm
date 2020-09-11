@@ -1,23 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import dotenv from "dotenv";
+
 import "./index.css";
-// import App from "./App.js";
-import Hello from "./Hello.js";
 import "tachyons";
-import * as serviceWorker from "./serviceWorker";
 
-// ReactDOM.render(
-// 	<React.StrictMode>
-// 		<App />
-// 	</React.StrictMode>,
-// 	document.getElementById("root")
-// );
+import App from "./containers/App.js";
 
-let msg = "React First 2020";
+dotenv.config();
 
-ReactDOM.render(<Hello greeting={msg} />, document.getElementById("root"));
-
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+ReactDOM.render(<App />, document.getElementById("root"));

@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-first-2020/static/css/main.ceb04f71.chunk.css",
-    "main.js": "/react-first-2020/static/js/main.136467fd.chunk.js",
-    "main.js.map": "/react-first-2020/static/js/main.136467fd.chunk.js.map",
-    "runtime-main.js": "/react-first-2020/static/js/runtime-main.91b03d16.js",
-    "runtime-main.js.map": "/react-first-2020/static/js/runtime-main.91b03d16.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/react-first-2020/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.418c523a.chunk.js": "/react-first-2020/static/js/2.418c523a.chunk.js",
-    "static/js/2.418c523a.chunk.js.map": "/react-first-2020/static/js/2.418c523a.chunk.js.map",
-    "index.html": "/react-first-2020/index.html",
-    "precache-manifest.120bf1ede946f95bad4a2964409b847e.js": "/react-first-2020/precache-manifest.120bf1ede946f95bad4a2964409b847e.js",
-    "service-worker.js": "/react-first-2020/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/react-first-2020/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.ceb04f71.chunk.css.map": "/react-first-2020/static/css/main.ceb04f71.chunk.css.map",
-    "static/js/2.418c523a.chunk.js.LICENSE.txt": "/react-first-2020/static/js/2.418c523a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/react-first-2020/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/react-2020-ztm/static/css/main.98d4b67a.chunk.css",
+    "main.js": "/react-2020-ztm/static/js/main.136467fd.chunk.js",
+    "main.js.map": "/react-2020-ztm/static/js/main.136467fd.chunk.js.map",
+    "runtime-main.js": "/react-2020-ztm/static/js/runtime-main.723ae3a2.js",
+    "runtime-main.js.map": "/react-2020-ztm/static/js/runtime-main.723ae3a2.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/react-2020-ztm/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ab7644ee.chunk.js": "/react-2020-ztm/static/js/2.ab7644ee.chunk.js",
+    "static/js/2.ab7644ee.chunk.js.map": "/react-2020-ztm/static/js/2.ab7644ee.chunk.js.map",
+    "index.html": "/react-2020-ztm/index.html",
+    "precache-manifest.9fdd4f89f19f0a3a5e8b7a21dfa0e66c.js": "/react-2020-ztm/precache-manifest.9fdd4f89f19f0a3a5e8b7a21dfa0e66c.js",
+    "service-worker.js": "/react-2020-ztm/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/react-2020-ztm/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.98d4b67a.chunk.css.map": "/react-2020-ztm/static/css/main.98d4b67a.chunk.css.map",
+    "static/js/2.ab7644ee.chunk.js.LICENSE.txt": "/react-2020-ztm/static/js/2.ab7644ee.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-2020-ztm/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.91b03d16.js",
+    "static/js/runtime-main.723ae3a2.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.418c523a.chunk.js",
-    "static/css/main.ceb04f71.chunk.css",
+    "static/js/2.ab7644ee.chunk.js",
+    "static/css/main.98d4b67a.chunk.css",
     "static/js/main.136467fd.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d52d547fbd265792f688986188a3dae",
+    "revision": "755bbcc882594a5e7c3de9851b8d8df8",
     "url": "/react-2020-ztm/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-2020-ztm/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "9866aec3f546da960978",
+    "revision": "34f45c4dfb685a961799",
     "url": "/react-2020-ztm/static/css/main.98d4b67a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-2020-ztm/static/js/2.c1866e45.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9866aec3f546da960978",
-    "url": "/react-2020-ztm/static/js/main.c427328b.chunk.js"
+    "revision": "34f45c4dfb685a961799",
+    "url": "/react-2020-ztm/static/js/main.ab81e5a2.chunk.js"
   },
   {
     "revision": "3ef7f64f8277feaaa561",
